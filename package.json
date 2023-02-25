@@ -1,0 +1,21 @@
+{
+  "name": "snapcap",
+  "version": "1.0.0",
+  "description": "Backend project to practice bcrypt, auth and sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "postgres",
+    "sequelize",
+    "bcrypt"
+  ],
+  "author": "Jason Louv",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.9.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.29.0"
+  }
+}
